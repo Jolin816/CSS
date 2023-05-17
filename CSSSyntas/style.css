@@ -1,0 +1,10 @@
+/* selector */
+body {
+    /* properties */
+    background: rgb(129, 111, 151);     /* red, blue, green, etc */
+    color: rgb(126, 206, 114);          /* red, blue, green, etc */
+    font-size: 20px;                      /* 0px - 100px beyond */
+    font-weight: bold;                    /* ligher, normal, bold */
+    text-align: center;                   /* left, center, right */
+    margin-top: 20px;                     /* 0px and upwards */
+}

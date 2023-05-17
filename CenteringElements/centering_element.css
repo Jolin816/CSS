@@ -1,0 +1,6 @@
+img {
+    display: block;
+    width: 200px;
+    margin-left: auto; /* auto means take all the possible space */
+    margin-right: auto;
+}

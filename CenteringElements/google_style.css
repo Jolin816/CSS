@@ -1,0 +1,17 @@
+
+.main {
+    margin-top: 100px;
+}
+
+.search {
+    display: block;         /* block - on top of each other, inline - in lines with each other*/
+    width: 400px;           /* width of elements */
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo {
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}

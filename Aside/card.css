@@ -1,0 +1,13 @@
+.card {
+    color: #222222;
+    background: lightgray;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    /*up to this point the background is tightly on the edge of text*/
+    padding: 50px;
+
+    border: 8px solid lightblue;
+    border-radius: 50px; /* corner */
+}
